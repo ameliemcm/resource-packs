@@ -3,5 +3,12 @@
         "description": "Shavian alphabet",
         "min_format": 97,
         "max_format": 97
+    },
+    "language": {
+        "en_shaw": {
+            "name": "𐑦𐑙𐑜𐑤𐑦𐑖",
+            "region": "·𐑿𐑯𐑲𐑑𐑩𐑛 𐑒𐑦𐑙𐑛𐑩𐑥",
+            "bidirectional": false
+        }
     }
 }
